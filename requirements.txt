@@ -7,3 +7,5 @@ opencv-python==4.4.0.46
 pandas==1.1.4
 Pillow==8.0.1
 pytesseract==0.3.7
+pdf2docx==0.5.1
+python-docx==0.8.11
