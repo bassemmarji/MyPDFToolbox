@@ -222,25 +222,3 @@ if __name__ == '__main__':
                        )
 
 
-    """
-    inp_pdf_file = 'C:\\SCRIPTS\\Test\\Python Faker Library.pdf'
-    #inp_pdf_file = 'C:\\SCRIPTS\\Test\\CV Bassem Marji.pdf'
-    docx_file = (os.path.splitext(inp_pdf_file)[0]) + '.docx'
-    #Start with page 0
-    convert_pdf2docx(input_file=inp_pdf_file
-                     ,output_file= docx_file
-                     ,pages=[0,1,2]
-                     )
-
-    #JPG --> JPEG
-    #JPEG --> JPEG
-    #PNG --> PNG
-
-
-    #inp_pdf_file ="C:\\SCRIPTS\\Test\\CV Bassem Marji_Eng.pdf"
-    convert_pdf2img(input_file=inp_pdf_file
-                  , output_folder = "C:\\SCRIPTS\\Test"
-                  , output_file_type = 'PNG'
-                  , pages = [1,2,3]
-                   )
-    """
