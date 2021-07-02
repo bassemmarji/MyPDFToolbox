@@ -139,8 +139,3 @@ if __name__ == "__main__":
         compress_folder(input_folder=args['input_path']
                       , recursive=args['recursive']
                        )
-
-    #result = compress_file(input_file  = 'C:\\SCRIPTS\\Test\\CV Bassem Marji_Eng_o.pdf'
-    #                        , output_file = None
-    #                         )
-
