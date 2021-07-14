@@ -11,3 +11,4 @@ pdf2docx==0.5.1
 python-docx==0.8.11
 PDFNetPython3==8.1.0
 pyAesCrypt==6.0.0
+pyOpenSSL==20.0.1
