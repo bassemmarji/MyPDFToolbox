@@ -69,7 +69,7 @@ def parse_args():
     parser.add_argument('-o'
                       , '--output_file'
                       , dest='output_file'
-                      , type=is_valid_path
+                      , type=str
                       , required=True
                       , help="Enter the path of an output file")
 

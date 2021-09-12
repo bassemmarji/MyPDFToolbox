@@ -12,25 +12,24 @@ def build_range(rangeval:str):
         result.update(range(int(x[0]),int(x[-1])+1))
     return list(sorted(result))
 
-def split_pdf_pages(input_file:str
+def shuffle_pdf_pages(input_file:str
                    ,output_file:str
                    ,pages:list=None):
     """
-    Split a PDF file based on the range of pages selected
+    Shuffle pages in a PDF file based on a page sequence presented
     """
     pdf_in  = PdfFileReader(open(input_file,'rb'),strict=False)
     pdf_out = PdfFileWriter()
     try:
-        for pg in range(pdf_in.getNumPages()):
-            if (pg+1) not in pages:
-               continue
-            page = pdf_in.getPage(pg)
-            pdf_out.addPage(page)
+        for pg in pages:
+            if (pg-1) in range(pdf_in.getNumPages()):
+               page = pdf_in.getPage((pg-1))
+               pdf_out.addPage(page)
     except Exception as e:
         print("Exception",e)
     else:
         with open(output_file, 'wb') as pdf_output_file:
-            pdf_out.write(pdf_output_file)
+             pdf_out.write(pdf_output_file)
         pdf_output_file.close()
         pdf_in.stream.close()
 
@@ -88,7 +87,7 @@ if __name__ == "__main__":
    args = parse_args()
 
    pages_list = build_range(args['pages'])
-   split_pdf_pages(input_file  = args['input_file']
-                 , output_file = args['output_file']
-                 , pages = pages_list
-                  )
+   shuffle_pdf_pages(input_file  = args['input_file']
+                   , output_file = args['output_file']
+                   , pages = pages_list
+                    )
