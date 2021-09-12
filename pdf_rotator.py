@@ -18,7 +18,7 @@ def rotate_pdf(input_file:str
                 ,rotateClockwise:bool=True
                 ,rotationDegree:int=0):
     """
-    Rotate a range of pages in a PDF file r
+    Rotate a range of pages in a PDF file either clockwise or anticlockwise based on a chosen rotation degree.
     """
     pdf_in  = PdfFileReader(open(input_file,'rb'),strict=False)
     pdf_out = PdfFileWriter()
@@ -43,7 +43,7 @@ def rotate_pdf(input_file:str
 
 def is_valid_path(path):
     """
-    Validate the path inputted and make sure it is a file path
+    Validate the path inputted and make sure it is a file path of type PDF
     """
     if not path:
         raise ValueError(f"Invalid Path")

@@ -36,7 +36,7 @@ def split_pdf(input_file:str
 
 def is_valid_path(path):
     """
-    Validate the path inputted and make sure it is a file path
+    Validate the path inputted and make sure it is a file path of type PDF
     """
     if not path:
         raise ValueError(f"Invalid Path")
