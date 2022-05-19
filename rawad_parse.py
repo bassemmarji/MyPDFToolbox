@@ -234,7 +234,7 @@ def parse_pdf_content(input_file: str
 
 
 if __name__ == '__main__':
-    parse_pdf_content(input_file=".\\static\\pdfs\\sidecurtain.pdf"
+    parse_pdf_content(input_file=".\\static\\pdfs\\2018.pdf"
                       , output_path=".\\static\\pdfs\\"
                       , pages=None
                       )
