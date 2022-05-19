@@ -142,6 +142,8 @@ def parse_section(pdf_content, section, output_path):
                     img.save(output_filepath)
                     img_stream.close()
                     images[bloc_idx] = output_filepath
+                    section_text += " " + output_filepath
+                    section_text += "\n"
 
     section["images"] = images
     section["text"] = section_text
@@ -202,20 +204,21 @@ def parse_pdf_content(input_file: str
 
         doc_content['title'] = doc_title
         doc_sections = {}
+        install_section = {}
         if doc_title_bloc > 0:
             section = get_next_section(pdf_content, start_bloc_idx=(doc_title_bloc + 1))
             # print('Section Header', section['Header'], 'Start Bloc', section['StartBloc']
             #      , 'End Bloc',section['EndBloc'] ,'Last Section' , section['LastSection'] )
 
             section = parse_section(pdf_content, section, output_path)
-            doc_sections[section['Header']] = section
+            doc_sections['Removal'] = section
             # while True:
             # section = get_next_section(pdf_content, start_bloc_idx=section['EndBloc'])
-            section['StartBloc'] = section['EndBloc']
-            section['Header'] = 'Installation'
-            section['EndBloc'] = 10000000
-            section = parse_section(pdf_content, section, output_path)
-            doc_sections[section['Header']] = section
+            install_section['StartBloc'] = section['EndBloc']
+            install_section['Header'] = 'Installation'
+            install_section['EndBloc'] = 10000000
+            install_section = parse_section(pdf_content, install_section, output_path)
+            doc_sections['Installation'] = install_section
 
             doc_content['Sections'] = doc_sections
 
@@ -231,7 +234,7 @@ def parse_pdf_content(input_file: str
 
 
 if __name__ == '__main__':
-    parse_pdf_content(input_file=".\\static\\pdfs\\2018.pdf"
+    parse_pdf_content(input_file=".\\static\\pdfs\\sidecurtain.pdf"
                       , output_path=".\\static\\pdfs\\"
                       , pages=None
                       )
