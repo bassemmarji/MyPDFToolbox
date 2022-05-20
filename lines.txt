@@ -1,0 +1,94 @@
+40  NOTE: Removal steps in this procedure may contain installation details.
+40  All vehicles
+59  1. Remove the following items:
+88  1. On both sides, remove the A-pillar trim panels. 
+99  Refer to: A-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).
+99  Refer to: A-Pillar Trim Panel - Police (501-05 Interior Trim and Ornamentation, Removal and Installation).
+88  2. On both sides, remove the B-pillar trim panels. 
+99  Refer to: B-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).
+88  3. On both sides, remove the D-pillar trim panels. 
+99  Refer to: D-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).
+88  4. Remove the overhead console. 
+99  Refer to: Overhead Console (501-12 Instrument Panel and Console, Removal and Installation).
+59  2. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+88  1. Position aside the rear door weatherstrip. 
+88  2. Remove the bolt. 
+99  Torque : 80 lb.in (9 Nm)
+88  3. Release the clips and the magnets. 
+88  4. Slide down and out and position aside the C-pillar trim panel. 
+ .\\static\\pdfs\\ba2d7d91aa6444dcae5a24799ce4870f.png
+59  3. Remove the retainers and the front grab handle. 
+ .\\static\\pdfs\\6b04fdcf61ea4f768615b201108b7467.png
+59  4. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+70  Remove the sun visor. 
+88  1. Remove the retainers cover. 
+88  2. Remove the retainers. 
+88  3. Seperate the sun visor. 
+88  4. If equipped. 
+99  Disconnect and remove the sun visor. 
+59  5. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+70  Remove the retainer and the sun visor clip. 
+ .\\static\\pdfs\\f785c624b2714035a7035625fbffe71b.png
+59  6.  
+70  Position aside the headliner wire harness
+88  1. Disconnect the headliner wire harness electrical connector. 
+88  2. Release the clips and position the wire harness aside. 
+ .\\static\\pdfs\\e7f8ffde97d54429b50ce9e39be9dae3.png
+59  7.  
+70  Position aside the washer hose. 
+88  1. Disconnect the washer hose coupling. 
+99  Refer to: Washer Hose Coupling (501-16 Wipers and Washers, General Procedures).
+88  2. Open the clips and position aside the washer hose. 
+ .\\static\\pdfs\\28dff1a26a9a4346a6fb6808159d0b00.png
+59  8. If equipped. 
+70  Disconnect the rear view mirror electrical connector. 
+ .\\static\\pdfs\\0db3dcd8c02b4ba1b7a45aaaaefa13fb.png
+59  9. If equipped. 
+70  Remove the rear view mirror cover. 
+ .\\static\\pdfs\\56cb528c9fa64608ad8df6e9ac0cbb53.png
+54  10. If equipped. 
+70  Disconnect the rain sensor and rear view mirror electrical connectors. 
+ .\\static\\pdfs\\e2ecc5e443744d60af7fbb8f0731ee6d.png
+40  Vehicles without roof opening panel
+54  11. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+70  Remove the second row coat hook. 
+88  1. Position the cover aside. 
+88  2. Remove the retainer and the second row coat hook assembly. 
+ .\\static\\pdfs\\3a8b920cc3d84ca9906d5a62a195b22d.png
+
+40  Vehicles With: Roof Opening Panel
+54  12. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+70  Remove the second row interior lamp. 
+88  1. Seperate the lamp assembly.
+88  2. Disconnect and remove the lamp assembly. 
+ .\\static\\pdfs\\59858e114f82434db906cba0a753e0f3.png
+54  13. NOTE: RH side shown, LH side similar.
+70  On both sides. 
+70  Remove the retainers. 
+ .\\static\\pdfs\\ab7dfa813e34496ebc5b657a7f5e6415.png
+40  All vehicles
+54  14. Disconnect the D-pillar washer hose coupling. 
+70  Refer to: Washer Hose Coupling (501-16 Wipers and Washers, General Procedures).
+ .\\static\\pdfs\\9f8d157cbb04498f96ea96673e533b2a.png
+54  15. On both sides. 
+70  Position the front seat in the full forward and reclined position. 
+88  1. Position the seat in the full forward position. 
+88  2. Position the seat in the full reclined position. 
+ .\\static\\pdfs\\255915eabb4d4075816acb28ed11076f.png
+40  Vehicles With: Roof Opening Panel
+54  16. Release the clips and magnets and lower the headliner down. 
+40  Vehicles without roof opening panel
+54  17. Release the clips and magnets and lower the headliner down. 
+40  All vehicles
+54  18. NOTICE: To avoid damaging the headliner when folding the headliner wings, fold the headliner wings so
+70  that the backing is ONLY touching the backing of the headliner. Never fold the headliner cloth-to-cloth or
+70  cloth-to-backing.
+70  NOTE: The headliner is made of new material that will allow for specific folding, flexing and rolling during removal
+70  through the liftgate opening.
+70  Remove the headliner. 
+ .\\static\\pdfs\\320da7a9e1fd400ab6c3dbcaaf72d4da.png

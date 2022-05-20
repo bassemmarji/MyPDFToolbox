@@ -1,0 +1,281 @@
+[
+  {
+    "steps": null,
+    "title": " NOTE: Removal steps in this procedure may contain installation details."
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 1",
+        "stepContent": " 1. Remove the following items:",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. On both sides, remove the A-pillar trim panels. ",
+            "lstDescriptions": [
+              " Refer to: A-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).\n",
+              " Refer to: A-Pillar Trim Panel - Police (501-05 Interior Trim and Ornamentation, Removal and Installation).\n"
+            ]
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. On both sides, remove the B-pillar trim panels. ",
+            "lstDescriptions": [
+              " Refer to: B-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).\n"
+            ]
+          },
+          {
+            "stepNumber": " 3",
+            "stepContent": " 3. On both sides, remove the D-pillar trim panels. ",
+            "lstDescriptions": [
+              " Refer to: D-Pillar Trim Panel (501-05 Interior Trim and Ornamentation, Removal and Installation).\n"
+            ]
+          },
+          {
+            "stepNumber": " 4",
+            "stepContent": " 4. Remove the overhead console. ",
+            "lstDescriptions": [
+              " Refer to: Overhead Console (501-12 Instrument Panel and Console, Removal and Installation).\n"
+            ]
+          }
+        ]
+      },
+      {
+        "stepNumber": " 2",
+        "stepContent": " 2. NOTE: RH side shown, LH side similar.",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Position aside the rear door weatherstrip. "
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Remove the bolt. ",
+            "lstDescriptions": [
+              " Torque : 80 lb.in (9 Nm)\n"
+            ]
+          },
+          {
+            "stepNumber": " 3",
+            "stepContent": " 3. Release the clips and the magnets. "
+          },
+          {
+            "stepNumber": " 4",
+            "stepContent": " 4. Slide down and out and position aside the C-pillar trim panel. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\ba2d7d91aa6444dcae5a24799ce4870f.png"
+        ]
+      },
+      {
+        "stepNumber": " 3",
+        "stepContent": " 3. Remove the retainers and the front grab handle. ",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\6b04fdcf61ea4f768615b201108b7467.png"
+        ]
+      },
+      {
+        "stepNumber": " 4",
+        "stepContent": " 4. NOTE: RH side shown, LH side similar.",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Remove the retainers cover. "
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Remove the retainers. "
+          },
+          {
+            "stepNumber": " 3",
+            "stepContent": " 3. Seperate the sun visor. "
+          },
+          {
+            "stepNumber": " 4",
+            "stepContent": " 4. If equipped. ",
+            "lstDescriptions": [
+              " Disconnect and remove the sun visor. \n"
+            ]
+          }
+        ]
+      },
+      {
+        "stepNumber": " 5",
+        "stepContent": " 5. NOTE: RH side shown, LH side similar.",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\f785c624b2714035a7035625fbffe71b.png"
+        ]
+      },
+      {
+        "stepNumber": " 6",
+        "stepContent": " 6.  ",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Disconnect the headliner wire harness electrical connector. "
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Release the clips and position the wire harness aside. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\e7f8ffde97d54429b50ce9e39be9dae3.png"
+        ]
+      },
+      {
+        "stepNumber": " 7",
+        "stepContent": " 7.  ",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Disconnect the washer hose coupling. ",
+            "lstDescriptions": [
+              " Refer to: Washer Hose Coupling (501-16 Wipers and Washers, General Procedures).\n"
+            ]
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Open the clips and position aside the washer hose. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\28dff1a26a9a4346a6fb6808159d0b00.png"
+        ]
+      },
+      {
+        "stepNumber": " 8",
+        "stepContent": " 8. If equipped. ",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\0db3dcd8c02b4ba1b7a45aaaaefa13fb.png"
+        ]
+      },
+      {
+        "stepNumber": " 9",
+        "stepContent": " 9. If equipped. ",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\56cb528c9fa64608ad8df6e9ac0cbb53.png"
+        ]
+      },
+      {
+        "stepNumber": " 10",
+        "stepContent": " 10. If equipped. ",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\e2ecc5e443744d60af7fbb8f0731ee6d.png"
+        ]
+      }
+    ],
+    "title": " All vehicles"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 11",
+        "stepContent": " 11. NOTE: RH side shown, LH side similar.",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Position the cover aside. "
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Remove the retainer and the second row coat hook assembly. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\3a8b920cc3d84ca9906d5a62a195b22d.png"
+        ]
+      }
+    ],
+    "title": " Vehicles without roof opening panel"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 12",
+        "stepContent": " 12. NOTE: RH side shown, LH side similar.",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Seperate the lamp assembly."
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Disconnect and remove the lamp assembly. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\59858e114f82434db906cba0a753e0f3.png"
+        ]
+      },
+      {
+        "stepNumber": " 13",
+        "stepContent": " 13. NOTE: RH side shown, LH side similar.",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\ab7dfa813e34496ebc5b657a7f5e6415.png"
+        ]
+      }
+    ],
+    "title": " Vehicles With: Roof Opening Panel"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 14",
+        "stepContent": " 14. Disconnect the D-pillar washer hose coupling. ",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\9f8d157cbb04498f96ea96673e533b2a.png"
+        ]
+      },
+      {
+        "stepNumber": " 15",
+        "stepContent": " 15. On both sides. ",
+        "lstSubSteps": [
+          {
+            "stepNumber": " 1",
+            "stepContent": " 1. Position the seat in the full forward position. "
+          },
+          {
+            "stepNumber": " 2",
+            "stepContent": " 2. Position the seat in the full reclined position. "
+          }
+        ],
+        "images": [
+          " .\\\\static\\\\pdfs\\\\255915eabb4d4075816acb28ed11076f.png"
+        ]
+      }
+    ],
+    "title": " All vehicles"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 16",
+        "stepContent": " 16. Release the clips and magnets and lower the headliner down. "
+      }
+    ],
+    "title": " Vehicles With: Roof Opening Panel"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 17",
+        "stepContent": " 17. Release the clips and magnets and lower the headliner down. "
+      }
+    ],
+    "title": " Vehicles without roof opening panel"
+  },
+  {
+    "steps": [
+      {
+        "stepNumber": " 18",
+        "stepContent": " 18. NOTICE: To avoid damaging the headliner when folding the headliner wings, fold the headliner wings so",
+        "images": [
+          " .\\\\static\\\\pdfs\\\\320da7a9e1fd400ab6c3dbcaaf72d4da.png"
+        ]
+      }
+    ],
+    "title": " All vehicles"
+  }
+]
